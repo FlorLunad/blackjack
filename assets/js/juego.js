@@ -106,7 +106,7 @@ const turnoComputadora = ( puntosMinimos )=>{
                 } else {
                 alert( 'Computadora gana' )
                 }
-        }, 200);
+        }, 1000);
 }
 
 
